@@ -1,0 +1,64 @@
+# Ignore user-specific settings
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Binaries, Build, DerivedDataCache, Intermediate, and Saved folders
+[Bb]inaries/
+[Build]/
+[DerivedDataCache]/
+[Intermediate]/
+[Saved]/
+.vscode/
+
+# Ignore compiled executable files
+*.exe
+*.dll
+*.app
+*.dylib
+*.so
+*.a
+*.lib
+*.exp
+*.pdb
+
+# Ignore Unreal-generated files
+*.generated.*
+*.vcxproj*
+*.xcodeproj*
+*.csproj
+*.sln
+*.opensdf
+*.sdf
+*.db
+*.opendb
+
+# Ignore crash reports
+Saved/Logs/
+Saved/Crashes/
+
+# Ignore plugin binaries and intermediates
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Ignore asset cache files
+*.uasset
+*.umap
+
+# Ignore system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Ignore Unreal Engine version control files
+*.uproject.sln
+*.uproject.local
+
+# Ignore Python virtual environments (if using scripting)
+venv/
+__pycache__/
+*.pyc
+
+# If using Rider or CLion
+.idea/
