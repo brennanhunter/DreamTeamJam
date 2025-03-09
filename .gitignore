@@ -42,9 +42,6 @@ Saved/Crashes/
 Plugins/*/Binaries/
 Plugins/*/Intermediate/
 
-# Ignore asset cache files
-*.uasset
-*.umap
 
 # Ignore system files
 Thumbs.db
