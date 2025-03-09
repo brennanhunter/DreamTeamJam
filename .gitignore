@@ -63,4 +63,4 @@ __pycache__/
 # Ignore specific Unreal Engine logs and telemetry
 Saved/Logs/DreamTeamJam.log
 Saved/Telemetry/Telemetry.json
-Intermediate
+Intermediate/*
