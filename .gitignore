@@ -62,3 +62,14 @@ __pycache__/
 
 # If using Rider or CLion
 .idea/
+Intermediate/CachedAssetRegistry_0.bin
+Saved/Config/CrashReportClient/UECC-Windows-5B2F1E134A18FA411B80AD8313DB9015/CrashReportClient.ini
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Logs/DreamTeamJam.log
+Saved/Telemetry/Telemetry.json
+*.bin
+*.ini
+Intermediate/CachedAssetRegistry_0.bin
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Logs/DreamTeamJam.log
+Saved/Telemetry/Telemetry.json
